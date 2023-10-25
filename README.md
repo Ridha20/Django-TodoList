@@ -1,2 +1,2 @@
-# Deployed the Todo-List onPythonAnywhere.
+# Deployed the Todo-List on PythonAnywhere.
 Link:https://ridhaisha.pythonanywhere.com/
